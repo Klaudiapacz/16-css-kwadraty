@@ -1,0 +1,22 @@
+section
+{
+    background-color: #808080;
+    height: 720px;
+    width: 500px;
+    padding-left: 10px;
+}
+
+section > h1
+{
+    color: whitesmoke;
+
+}
+
+div
+{
+    background-color:#fea500;
+    height: 95px;
+    width: 80px;
+    margin-top: 5px;
+    padding-left: 20px;
+}
